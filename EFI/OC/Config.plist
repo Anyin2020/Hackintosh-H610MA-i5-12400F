@@ -1105,7 +1105,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 -amfipassbeta amfi=0x80</string>
+				<string>keepsyms=1 -amfipassbeta</string>
 				<key>csr-active-config</key>
 				<data>
 				AwgAAA==
