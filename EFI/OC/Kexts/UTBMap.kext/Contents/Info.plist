@@ -38,7 +38,7 @@
 			<dict>
 				<key>port-count</key>
 				<data>
-				EwAAAA==
+				FAAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -72,10 +72,10 @@
 					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						BQAAAA==
+						BAAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
@@ -84,16 +84,16 @@
 						<integer>0</integer>
 						<key>port</key>
 						<data>
-						BgAAAA==
+						BQAAAA==
 						</data>
 					</dict>
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
-						CAAAAA==
+						BgAAAA==
 						</data>
 					</dict>
 					<key>HS07</key>
@@ -102,7 +102,7 @@
 						<integer>255</integer>
 						<key>port</key>
 						<data>
-						CQAAAA==
+						CAAAAA==
 						</data>
 					</dict>
 					<key>HS08</key>
@@ -111,7 +111,7 @@
 						<integer>255</integer>
 						<key>port</key>
 						<data>
-						DgAAAA==
+						CQAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -139,6 +139,15 @@
 						<key>port</key>
 						<data>
 						EwAAAA==
+						</data>
+					</dict>
+					<key>SS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>
+						FAAAAA==
 						</data>
 					</dict>
 				</dict>
