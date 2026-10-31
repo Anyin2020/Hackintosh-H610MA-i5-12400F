@@ -20,8 +20,6 @@
 | **蓝牙 (Bluetooth)** | **BCM20702B0** (BCM94360CD 板载 USB 蓝牙) | 原生 Apple ID / 隔空投送 / 接力 / Apple Watch 解锁 |
 | **板载声卡 (Audio)** | **Realtek ALC897** (Layout-ID: 11) | 内建输入输出完美 (AppleALC) |
 | **板载网卡 (LAN)** | **Intel I219-V 千兆网卡** | 原生千兆握手 (IntelMausi) |
-| **散热器 (Cooler)** | **利民 AXP90 X53 白色下压散热** | - |
-| **电源 (PSU)** | **鑫谷 AM650W 冰山版 全模组** | - |
 
 ---
 
